@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\egyetem\C#\beadando1\bin\Debug\net6.0\beadando1.exe
+C:\Users\Asus\Desktop\egyetem\C#\beadando1\bin\Debug\net6.0\beadando1.deps.json
+C:\Users\Asus\Desktop\egyetem\C#\beadando1\bin\Debug\net6.0\beadando1.runtimeconfig.json
+C:\Users\Asus\Desktop\egyetem\C#\beadando1\bin\Debug\net6.0\beadando1.dll
+C:\Users\Asus\Desktop\egyetem\C#\beadando1\bin\Debug\net6.0\ref\beadando1.dll
+C:\Users\Asus\Desktop\egyetem\C#\beadando1\bin\Debug\net6.0\beadando1.pdb
+C:\Users\Asus\Desktop\egyetem\C#\beadando1\obj\Debug\net6.0\beadando1.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\egyetem\C#\beadando1\obj\Debug\net6.0\beadando1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\egyetem\C#\beadando1\obj\Debug\net6.0\beadando1.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\egyetem\C#\beadando1\obj\Debug\net6.0\beadando1.AssemblyInfo.cs
+C:\Users\Asus\Desktop\egyetem\C#\beadando1\obj\Debug\net6.0\beadando1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\egyetem\C#\beadando1\obj\Debug\net6.0\beadando1.dll
+C:\Users\Asus\Desktop\egyetem\C#\beadando1\obj\Debug\net6.0\ref\beadando1.dll
+C:\Users\Asus\Desktop\egyetem\C#\beadando1\obj\Debug\net6.0\beadando1.pdb
+C:\Users\Asus\Desktop\egyetem\C#\beadando1\obj\Debug\net6.0\beadando1.genruntimeconfig.cache
